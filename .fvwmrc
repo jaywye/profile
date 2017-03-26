@@ -98,6 +98,7 @@ AddToMenu RootMenu	"Root Menu"	Title
 +			"XTerm%mini.xterm.xpm%"		Exec exec xterm -font -*-fixed-medium-r-*-*-18-*-*-*-*-*-iso8859-*
 +			""		Nop
 +			"Firefox"	Exec exec firefox
++			"gVim"		Exec exec gvim
 #+			"Rxvt"		Exec exec rxvt
 #+			""		Nop
 #+			"Remote Logins"	Popup Remote-Logins
